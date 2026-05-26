@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Somya Sharma 👋
 
-<!--
-**Somyash07/somyash07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & AI-focused Software Engineer passionate about building scalable systems, AI-powered applications, and real-time platforms.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Backend Engineering with Spring Boot & Microservices
+* AI Applications using LLMs, RAG, and Computer Vision
+* Distributed Systems & Scalable API Architectures
+* Real-time AI systems using OpenCV, MediaPipe, and WebRTC
+
+## 🛠 Tech Stack
+
+### Languages
+
+Java • Python • JavaScript • TypeScript • C++
+
+### Backend & Systems
+
+Spring Boot • Kafka • Microservices • REST APIs • Node.js • Express.js • FastAPI
+
+### AI & Machine Learning
+
+LLMs • RAG Pipelines • LangChain • Prompt Engineering • PyTorch • TensorFlow • Computer Vision
+
+### Databases & Tools
+
+MongoDB • PostgreSQL • Docker • Git • Firebase • Postman
+
+## 📌 Featured Projects
+
+* GymCoach AI — Real-time AI fitness coaching platform
+* MyClass AI — AI-powered attendance management system
+* HireSync — Recruitment automation platform using Kafka & Microservices
+
+## 📫 Connect With Me
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/somya-sharma)
+- [LeetCode](https://leetcode.com/u/somyash07/)
+- [GeeksforGeeks]([https://auth.geeksforgeeks.org/user/somyash07/](http://geeksforgeeks.org/profile/somyasqf7p?tab=overview))
