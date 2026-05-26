@@ -90,7 +90,7 @@ Backend & AI-focused Software Engineer passionate about scalable systems, AI app
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/somya-sharma" target="_blank">
+  <a href="https://www.linkedin.com/in/somya-sharma-93341124a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
